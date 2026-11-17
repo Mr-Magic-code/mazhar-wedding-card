@@ -9,23 +9,23 @@ export type EventItem = {
 export const wedding = {
   couple: {
     bride: {
-      firstName: "D/O Safdar Razzaq",
-      fullName: "D/O Safdar Razzaq",
-      parents: "Daughter of Mr. & Mrs. Safdar Razzaq",
+      firstName: "D/O ABC",
+      fullName: "D/O ABC",
+      parents: "Daughter of Mr. & Mrs. ABC",
     },
     groom: {
-      firstName: "Aqib Riaz",
-      fullName: "Aqib Riaz",
-      parents: "Son of Mr. & Mrs. Riaz",
+      firstName: "Mazhar Hussain",
+      fullName: "Mazhar Hussain",
+      parents: "Son of Mr. & Mrs. Hussain",
     },
-    hashtag: "#RiazFamily",
+    hashtag: "#MazharFamily",
   },
-  dateISO: "2026-12-27T13:00:00+05:00",
-  displayDate: "Sunday, 27 December 2026",
+  dateISO: "2026-11-26T13:00:00+05:00",
+  displayDate: "Sunday, 27 November 2026",
   displayTime: "1:00 PM onwards",
   venue: {
-    name: "AL MAKKA BANQUET HALL",
-    address: "Khayban E Sir Syed, IJP Road, Rawalpindi",
+    name: "Talagang HALL",
+    address: "Talagang HALL",
     mapUrl: "https://maps.app.goo.gl/AN7mfAuSxszK22yx9",
   },
   inviteLine: "Together with their families",
@@ -35,10 +35,10 @@ export const wedding = {
   events: [
     {
       name: "Walima",
-      date: "27 December 2026",
+      date: "27 November 2026",
       time: "1:00 PM",
-      venue: "AL MAKKA BANQUET HALL",
-      address: "Khayban E Sir Syed, IJP Road, Rawalpindi",
+      venue: "Talagang HALL",
+      address: "Talagang HALL",
     },
   ] as EventItem[],
   guests: [
