@@ -21,7 +21,7 @@ export const wedding = {
     hashtag: "#MazharFamily",
   },
   dateISO: "2026-11-27T14:00:00+05:00",
-  displayDate: "Sunday, 27 November 2026",
+  displayDate: "Friday, 27 November 2026",
   displayTime: "2:00 PM onwards",
   venue: {
     name: "Sangam Arena Marquee",
